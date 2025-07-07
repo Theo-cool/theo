@@ -1,6 +1,7 @@
 ---
 title: theo
 image: zhaopian.jpg
+resources: CVhong.pdf
 about:
   template: jolla
   image-shape: round
