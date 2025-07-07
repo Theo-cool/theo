@@ -2,7 +2,7 @@ project:
   type: website
   output-dir: docs
 website:
-  title: "theo"
+  title: "Theo's learning note"
   navbar:
     left:
       - href: index.qmd
@@ -12,7 +12,7 @@ website:
 format:
   html:
     theme:
-      - cosmo
+      - sketchy
       - brand
     css: styles.css
     toc: true
